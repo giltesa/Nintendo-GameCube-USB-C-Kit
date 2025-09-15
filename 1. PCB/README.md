@@ -7,3 +7,11 @@ This decision has been made due to repeated misuse of the shared materials by th
 The original license explicitly **prohibits commercial use** of this work without proper authorization. Unfortunately, the terms of the license were not respected, which undermines the purpose of sharing the source code and the trust of the community.
 
 Thank you for your understanding and respect for intellectual property rights.
+
+## Unauthorized Sellers
+
+Below is a list of vendors who are distributing counterfeit products without our authorization:
+
+- Treasure Game Accessory Store
+
+![Treasure Game Accessory Store](https://shop.giltesa.com/wp-content/uploads/p/NGC-N1.jpg)
