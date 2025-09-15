@@ -10,7 +10,7 @@ Thank you for your understanding and respect for intellectual property rights.
 
 ## Unauthorized Sellers
 
-Below is a list of vendors who are distributing counterfeit products without our authorization:
+The following vendors are listed here because they have **violated the project license** and are **illegally profiting** from the sale of counterfeit products without our authorization:
 
 - Treasure Game Accessory Store
 
